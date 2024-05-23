@@ -1,5 +1,8 @@
 // Place your DOM creation code here
 // https://github.com/WWCC-CS247/Homework-01/blob/solution/src/app.js
+// Modified by: Alan Espana
+// CS 247
+// Homework 01 - HTML from code
 const h1 = document.createElement('h1');
 h1.textContent = 'Homework 01';
 
